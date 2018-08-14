@@ -1,0 +1,21 @@
+{
+	"List": [{
+			"_id": "581f8452175b718816ef1ed8",
+			"placeName": "Aksa Beach",
+			"placeDisp": "Aksa Beach is a popular beach and a vacation spot in Aksa village at Malad Mumbai India",
+			"distance": "50km",
+			"imgUrl": "/image/beach1.jpg",
+			"category": "BeachHoliday",
+			"value": 0
+		},
+		{
+			"_id": "581ff8648fc7479dfada220a",
+			"placeName": "Aksa Beach",
+			"placeDisp": "Aksa Beach is a popular beach and a vacation spot in Aksa village at Malad Mumbai India",
+			"distance": "50km",
+			"imgUrl": "/image/beach1.jpg",
+			"category": "BeachHoliday",
+			"value": 0
+		}
+	]
+}
