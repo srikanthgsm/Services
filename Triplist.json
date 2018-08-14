@@ -10,9 +10,27 @@
 		},
 		{
 			"_id": "581ff8648fc7479dfada220a",
-			"placeName": "Aksa Beach",
-			"placeDisp": "Aksa Beach is a popular beach and a vacation spot in Aksa village at Malad Mumbai India",
-			"distance": "50km",
+			"placeName": "Marina Beach",
+			"placeDisp": "Marina Beach is a natural urban beach in Chennai, Tamil Nadu, India, along the Bay of Bengal. The beach runs from near Fort St. George in the north to Foreshore Estate in the south, a distance of 6.0",
+			"distance": "25km",
+			"imgUrl": "/image/beach1.jpg",
+			"category": "BeachHoliday",
+			"value": 0
+		},
+		{
+			"_id": "581ff8648fc7479dfada220a",
+			"placeName": "Aliga Beach",
+			"placeDisp": "Club Aliga resort in Balatonvilágos awaits guests on 10 hectares and a 800 meters long beach. There are plenty other fun things to do besides swimming,",
+			"distance": "75km",
+			"imgUrl": "/image/beach1.jpg",
+			"category": "BeachHoliday",
+			"value": 0
+		},
+		{
+			"_id": "581ff8648fc7479dfada220a",
+			"placeName": "Elliot's Beach",
+			"placeDisp": "Elliot's Beach is located in Besant Nagar, Chennai, India. It forms the end-point of the Marina Beach shore, and is named after Edward Elliot, onetime chief magistrate and superintendent of police, Madras.",
+			"distance": "75km",
 			"imgUrl": "/image/beach1.jpg",
 			"category": "BeachHoliday",
 			"value": 0
