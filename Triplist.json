@@ -1,39 +1,237 @@
 {
 	"List": [{
-			"_id": "581f8452175b718816ef1ed8",
+			"_id": "5b8565d9427b2e6a8dbd781a",
+			"placeName": "Alibag Beach",
+			"placeDisp": "Alibag was developed in the 17th century by Sarkhel Kanhoji Aangre the naval chief of King Shivaji's Kingdom.",
+			"distance": "150km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/beach2.jpg",
+			"category": "BeachHoliday",
+			"value": 0
+		},
+		{
+			"_id": "5b8565d9427b2e6a8dbd781b",
+			"placeName": "Colva Beach",
+			"placeDisp": "Colva beach stretches for around 2.4 km, part of a beach consisting of about 25 km of powder white sand, lined along its shore by coconut palms, and extending as far as Bogmalo Beach to the north and Cabo de rama Beach to the South Goa's coastline.",
+			"distance": "180km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/beach3.jpg",
+			"category": "BeachHoliday",
+			"value": 0
+		},
+		{
+			"_id": "5b8565d9427b2e6a8dbd781c",
+			"placeName": "Ooty",
+			"placeDisp": "The once summer capital of the British now the capital of Himachal Pradesh is surely a delight for the eyes. ",
+			"distance": "180km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/mountains3.jpg",
+			"category": "Mountains",
+			"value": 1
+		},
+		{
+			"_id": "5b8565d9427b2e6a8dbd781d",
+			"placeName": "Nainital",
+			"placeDisp": "Based in the Kumaon region of Uttarakhand surrounding the volcanic lake Nani, Nainital is adored by millions and is often referred as the �Lake District� of India.",
+			"distance": "120km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/mountains1.jpg",
+			"category": "Mountains",
+			"value": 1
+		},
+		{
+			"_id": "5b8565d9427b2e6a8dbd781e",
+			"placeName": "Taj Mahal, Agra",
+			"placeDisp": "The Taj Mahal, a beautiful white marble Monument located in the city of Agra on the banks of the holy river Yamuna in the state of Uttar Pradesh.",
+			"distance": "170km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/history1.jpg",
+			"category": "HistoryTourism",
+			"value": 2
+		},
+		{
+			"_id": "5b8565d9427b2e6a8dbd781f",
+			"placeName": "Shimla",
+			"placeDisp": "The once summer capital of the British now the capital of Himachal Pradesh is surely a delight for the eyes.",
+			"distance": "180km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/mountains2.jpg",
+			"category": "Mountains",
+			"value": 1
+		},
+		{
+			"_id": "5b8565d9427b2e6a8dbd7820",
+			"placeName": "Mysore Palace, Mysore",
+			"placeDisp": "The Palace of Mysore is the most famous historical monument, located in the city of Mysore in Karnataka and one of the most visited monuments in India.",
+			"distance": "180km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/history2.jpg",
+			"category": "HistoryTourism",
+			"value": 2
+		},
+		{
+			"_id": "5b8565d9427b2e6a8dbd7821",
+			"placeName": "Ooty",
+			"placeDisp": "Based in the Kumaon region of Uttarakhand surrounding the volcanic lake Nani, Ooty is adored by millions and is often referred as the �Lake District of India.",
+			"distance": "120km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/mountains3.jpg",
+			"category": "Mountains",
+			"value": 1
+		},
+		{
+			"_id": "5b8565d9427b2e6a8dbd7822",
 			"placeName": "Aksa Beach",
 			"placeDisp": "Aksa Beach is a popular beach and a vacation spot in Aksa village at Malad Mumbai India",
 			"distance": "50km",
-			"imgUrl": "/image/beach1.jpg",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/beach1.jpg",
 			"category": "BeachHoliday",
 			"value": 0
 		},
 		{
-			"_id": "581ff8648fc7479dfada220a",
-			"placeName": "Marina Beach",
-			"placeDisp": "Marina Beach is a natural urban beach in Chennai, Tamil Nadu, India, along the Bay of Bengal. The beach runs from near Fort St. George in the north to Foreshore Estate in the south, a distance of 6.0",
-			"distance": "25km",
-			"imgUrl": "/image/beach1.jpg",
+			"_id": "5b8565d9427b2e6a8dbd7823",
+			"placeName": "India gate, Delhi",
+			"placeDisp": "The Palace of Mysore is the most famous historical monument, located in the city of Mysore in Karnataka and one of the most visited monuments in India.",
+			"distance": "180km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/history3.jpg",
+			"category": "HistoryTourism",
+			"value": 2
+		},
+		{
+			"_id": "5b8565d9427b2e6a8dbd7824",
+			"placeName": "Chembra Peak Trek, Kerala",
+			"placeDisp": "The Hampta Pass trek is another stimulating high altitude one in the Kullu valley. The maximum height achieved during this trek is around 3960 metres.",
+			"distance": "380km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/trekking3.jpg",
+			"category": "TrekkingSpots",
+			"value": 3
+		},
+		{
+			"_id": "5b8565d9427b2e6a8dbd7825",
+			"placeName": "Himalaya",
+			"placeDisp": "The Hampta Pass trek is another stimulating high altitude one in the Kullu valley. The maximum height achieved during this trek is around 3960 metres.",
+			"distance": "270km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/trekking1.jpg",
+			"category": "TrekkingSpots",
+			"value": 3
+		},
+		{
+			"_id": "5b8565d9427b2e6a8dbd7826",
+			"placeName": "Hampta Pass Trek, Himachal Pradesh",
+			"placeDisp": "The Hampta Pass trek is another stimulating high altitude one in the Kullu valley. The maximum height achieved during this trek is around 3960 metres.",
+			"distance": "380km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/trekking2.jpg",
+			"category": "TrekkingSpots",
+			"value": 3
+		},
+		{
+			"_id": "5b86490003b3d07411669fff",
+			"placeName": "Aksa Beach",
+			"placeDisp": "Aksa Beach is a popular beach and a vacation spot in Aksa village at Malad Mumbai India",
+			"distance": "50km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/beach1.jpg",
 			"category": "BeachHoliday",
 			"value": 0
 		},
 		{
-			"_id": "581ff8648fc7479dfada220a",
-			"placeName": "Aliga Beach",
-			"placeDisp": "Club Aliga resort in Balatonvilágos awaits guests on 10 hectares and a 800 meters long beach. There are plenty other fun things to do besides swimming,",
-			"distance": "75km",
-			"imgUrl": "/image/beach1.jpg",
+			"_id": "5b86490003b3d0741166a000",
+			"placeName": "Shimla",
+			"placeDisp": "The once summer capital of the British now the capital of Himachal Pradesh is surely a delight for the eyes.",
+			"distance": "180km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/mountains2.jpg",
+			"category": "Mountains",
+			"value": 1
+		},
+		{
+			"_id": "5b86490003b3d0741166a001",
+			"placeName": "Ooty",
+			"placeDisp": "The once summer capital of the British now the capital of Himachal Pradesh is surely a delight for the eyes. ",
+			"distance": "180km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/mountains3.jpg",
+			"category": "Mountains",
+			"value": 1
+		},
+		{
+			"_id": "5b86490003b3d0741166a002",
+			"placeName": "Nainital",
+			"placeDisp": "Based in the Kumaon region of Uttarakhand surrounding the volcanic lake Nani, Nainital is adored by millions and is often referred as the �Lake District� of India.",
+			"distance": "120km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/mountains1.jpg",
+			"category": "Mountains",
+			"value": 1
+		},
+		{
+			"_id": "5b86490003b3d0741166a003",
+			"placeName": "Ooty",
+			"placeDisp": "Based in the Kumaon region of Uttarakhand surrounding the volcanic lake Nani, Ooty is adored by millions and is often referred as the �Lake District of India.",
+			"distance": "120km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/mountains3.jpg",
+			"category": "Mountains",
+			"value": 1
+		},
+		{
+			"_id": "5b86490003b3d0741166a004",
+			"placeName": "Taj Mahal, Agra",
+			"placeDisp": "The Taj Mahal, a beautiful white marble Monument located in the city of Agra on the banks of the holy river Yamuna in the state of Uttar Pradesh.",
+			"distance": "170km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/history1.jpg",
+			"category": "HistoryTourism",
+			"value": 2
+		},
+		{
+			"_id": "5b86490003b3d0741166a005",
+			"placeName": "Mysore Palace, Mysore",
+			"placeDisp": "The Palace of Mysore is the most famous historical monument, located in the city of Mysore in Karnataka and one of the most visited monuments in India.",
+			"distance": "180km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/history2.jpg",
+			"category": "HistoryTourism",
+			"value": 2
+		},
+		{
+			"_id": "5b86490003b3d0741166a006",
+			"placeName": "India gate, Delhi",
+			"placeDisp": "The Palace of Mysore is the most famous historical monument, located in the city of Mysore in Karnataka and one of the most visited monuments in India.",
+			"distance": "180km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/history3.jpg",
+			"category": "HistoryTourism",
+			"value": 2
+		},
+		{
+			"_id": "5b86490003b3d0741166a007",
+			"placeName": "Alibag Beach",
+			"placeDisp": "Alibag was developed in the 17th century by Sarkhel Kanhoji Aangre the naval chief of King Shivaji's Kingdom.",
+			"distance": "150km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/beach2.jpg",
 			"category": "BeachHoliday",
 			"value": 0
 		},
 		{
-			"_id": "581ff8648fc7479dfada220a",
-			"placeName": "Elliot's Beach",
-			"placeDisp": "Elliot's Beach is located in Besant Nagar, Chennai, India. It forms the end-point of the Marina Beach shore, and is named after Edward Elliot, onetime chief magistrate and superintendent of police, Madras.",
-			"distance": "75km",
-			"imgUrl": "/image/beach1.jpg",
+			"_id": "5b86490003b3d0741166a008",
+			"placeName": "Chembra Peak Trek, Kerala",
+			"placeDisp": "The Hampta Pass trek is another stimulating high altitude one in the Kullu valley. The maximum height achieved during this trek is around 3960 metres.",
+			"distance": "380km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/trekking3.jpg",
+			"category": "TrekkingSpots",
+			"value": 3
+		},
+		{
+			"_id": "5b86490003b3d0741166a009",
+			"placeName": "Colva Beach",
+			"placeDisp": "Colva beach stretches for around 2.4 km, part of a beach consisting of about 25 km of powder white sand, lined along its shore by coconut palms, and extending as far as Bogmalo Beach to the north and Cabo de rama Beach to the South Goa's coastline.",
+			"distance": "180km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/beach3.jpg",
 			"category": "BeachHoliday",
 			"value": 0
+		},
+		{
+			"_id": "5b86490003b3d0741166a00a",
+			"placeName": "Hampta Pass Trek, Himachal Pradesh",
+			"placeDisp": "The Hampta Pass trek is another stimulating high altitude one in the Kullu valley. The maximum height achieved during this trek is around 3960 metres.",
+			"distance": "380km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/trekking2.jpg",
+			"category": "TrekkingSpots",
+			"value": 3
+		},
+		{
+			"_id": "5b86490003b3d0741166a00b",
+			"placeName": "Himalaya",
+			"placeDisp": "The Hampta Pass trek is another stimulating high altitude one in the Kullu valley. The maximum height achieved during this trek is around 3960 metres.",
+			"distance": "270km",
+			"imgUrl": "https://raw.githubusercontent.com/srikanthgsm/Services/master/trekking1.jpg",
+			"category": "TrekkingSpots",
+			"value": 3
 		}
 	]
 }
