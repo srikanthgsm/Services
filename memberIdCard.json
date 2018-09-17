@@ -1,0 +1,19 @@
+{
+	"memberList": [{
+			"memberId": "581f8452175",
+			"memberName": "MemberName1",
+			"memberType": "primaryMember",
+			"value": 0
+		},
+		{
+			"memberId": "b718816ef1ed8",
+			"memberName": "MemberName2",
+			"memberType": "dependant",
+			"value": 0
+		}
+	],
+	"errorCode": "",
+	"errorMsg": "error message",
+	"status": "Success",
+	"disclaimerMessage": "disclaimer message"
+}
