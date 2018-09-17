@@ -3,13 +3,13 @@
 			"memberId": "581f8452175",
 			"memberName": "MemberName1",
 			"memberType": "primaryMember",
-			"value": 0
+			"idCardEnabled": 1
 		},
 		{
 			"memberId": "b718816ef1ed8",
 			"memberName": "MemberName2",
 			"memberType": "dependant",
-			"value": 0
+			"idCardEnabled": 0
 		}
 	],
 	"errorCode": "",
